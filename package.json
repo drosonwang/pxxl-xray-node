@@ -1,0 +1,1 @@
+{"engines":{"node":">=18"},"main":"server.js","name":"pxxl-xray-node","private":true,"scripts":{"build":"node setup.js","start":"node server.js"},"version":"1.0.0"}
